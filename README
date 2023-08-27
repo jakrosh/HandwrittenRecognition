@@ -1,0 +1,8 @@
+Hi! 
+
+To run the handwritten-digit classifier, call `python3 main.py` to identify
+the digits found in the ./handwritten-digits-custom/ dir. 
+
+The requirements for the pictures in the file are: 
+	- filetype: .png
+	- image size: 28px x 28px 
